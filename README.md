@@ -2,7 +2,6 @@
 
 <img align="right" src="https://media.tenor.com/vWkKuOn9gQYAAAAC/reze-chainsaw-man-csm-bomb-devil-boom-anime.gif" width="280" alt="Reze from Chainsaw Man">
 
-> “Code is the only language that never lies.”
 
 ---
 
