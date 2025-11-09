@@ -1,6 +1,7 @@
 # 🌒 QuasarDev
 
-<img align="right" src="https://media.tenor.com/vWkKuOn9gQYAAAAC/reze-chainsaw-man-csm-bomb-devil-boom-anime.gif" width="280" alt="Reze from Chainsaw Man">
+<img align="center" src="https://i.imgur.com/9Y0u346.gif" width="full" alt="Reze from Chainsaw Man">
+
 
 
 ---
