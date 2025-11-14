@@ -9,11 +9,10 @@
 ### 🕯️ About Me  
 🖤 2nd-year student at Zaporizhzhia University  
 🌘 Beginner developer, still learning the craft  
-🎮 Gamer • Anime fan • Night coder  
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Stack  (trainee)
 🦀 **Rust**  
 💻 **JavaScript / TypeScript**  
 ⚛️ **React / Next.js**  
