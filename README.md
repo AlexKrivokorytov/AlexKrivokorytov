@@ -7,5 +7,5 @@
 ---
 
 ### 🕯️ About Me  
-🖤 2nd-year student at Zaporizhzhia University  
+🖤 3rd-year student at Zaporizhzhia University  
 🌘 Beginner developer, still learning the craft  
